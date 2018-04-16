@@ -24,7 +24,6 @@ Danqi Chen and Christopher Manning. A Fast and Accurate Dependency Parser Using 
 
 Author: Danqi Chen, Jon Gauthier
 Modified by: Heeyoung Kwon (2017)
-Modified by: Jun S. Kang (2018 Mar)
 """
 
 
